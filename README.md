@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com meus projetos pessoais.
 - 🌱 Python, PHP, HTML, CSS.
-- 
 
 <div align="center">
   <a href="https://github.com/ThiagoSilva20">
@@ -26,4 +25,4 @@
   <a href="https://www.linkedin.com/in/thiago-silva-3599221ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-- :telephone_receiver: : (21) 99339-2724 
+- :telephone_receiver:(21) 99339-2724 
