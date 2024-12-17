@@ -1,7 +1,7 @@
 ### Olá, eu sou Thiago! 👋
 
 - 🔭 Hoje trabalho com meus projetos pessoais.
-- 🌱 HTML, CSS, PHP, PYTHON, FLUTTER, DART.
+- 🌱 HTML, CSS, REACT, JAVASCRICT, PHP, PYTHON.
 
 <div align="center">
   <a href="https://github.com/ThiagoSilva20">
