@@ -14,7 +14,7 @@
   <img align="center" alt="th-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="th-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="th-php" height="30" width="40" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000">
-  <img align="center" alt="th-php" height="30" width="40" src="https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000">
+  <img align="center" alt="th-php" height="30" width="40" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000">
 
 
     
