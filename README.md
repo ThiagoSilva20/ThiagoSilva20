@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com meus projetos pessoais.
 - 🌱 HTML, CSS, REACT, JAVASCRICT, PHP, PYTHON.
 
-<div align="center">
+<div style="align-items: center"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoSilva20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 </div>
