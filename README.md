@@ -4,7 +4,6 @@
 - 🌱 HTML, CSS, REACT, JAVASCRICT, PHP, PYTHON.
 
 <div align="center">
-  <a href="https://github.com/ThiagoSilva20">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoSilva20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 </div>
