@@ -43,7 +43,7 @@ Sou um criador de soluções digitais que acredita que **código também é arte
 ## 🌎 Vamos nos conectar
 
 <p align="center">
-  <a href="https://k3lm4n.io" target="_blank">
+  <a style="padding-left:5px" href="https://k3lm4n.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/thiagosilva-dev" target="_blank">
