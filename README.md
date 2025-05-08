@@ -14,7 +14,7 @@
     <a href="https://instagram.com/sillva_ty">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://tiktok.com/@thiagosilva.dev">
+    <a href="https://tiktok.com/@thiagosilvadev">
       <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
     </a>
   </p>
