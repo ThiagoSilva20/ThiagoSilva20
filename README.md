@@ -10,11 +10,12 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Finalista em Análise e Desenvolvimento de Sistemas  
-- 🧑‍💻 Desenvolvedor freelancer construindo landing pages e dashboards  
-- 📱 Criador de conteúdo tech no TikTok e Instagram  
-- 🧩 Curioso por IA, automações e novas tecnologias  
-- 🌍 Sonho: unir **tecnologia e influência** para impactar o mundo!
+Sou um criador de soluções digitais que acredita que **código também é arte**.  
+
+👨‍🎓 No último período da faculdade de Análise e Desenvolvimento de Sistemas, combino teoria com prática em cada projeto.  
+🌐 Como freelancer, dou vida a ideias criando **landing pages modernas**, **dashboards funcionais** e experiências memoráveis.  
+📱 Também compartilho conhecimento nas redes, onde ensino, aprendo e me conecto com uma comunidade que vibra tecnologia.  
+✨ Minha missão? **Criar interfaces que encantam e inspiram.**  
 
 ---
 
@@ -39,12 +40,22 @@
 
 ---
 
-## 🎥 Nas redes
+## 🌎 Vamos nos conectar
 
-- 💼 [Portfólio](https://k3lm4n.io/)
-- 📷 [Instagram](https://instagram.com/seuuser)
-- 🎬 [TikTok](https://tiktok.com/@seuuser)
-- 💬 [LinkedIn](https://linkedin.com/in/seuuser)
+<p align="center">
+  <a href="https://k3lm4n.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thiagosilva-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/thiagosilva.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://tiktok.com/@thiagosilva.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
