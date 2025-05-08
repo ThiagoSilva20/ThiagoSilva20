@@ -1,74 +1,141 @@
-<h1 align="center">Thiago Silva</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=435&lines=Thiago+Silva;Desenvolvedor+Full-Stack" alt="Typing SVG" />
+  <p align="center">
+    <em>Transformando ideias em soluções digitais com criatividade e código</em>
+  </p>
+  <br/>
+  <p>
+    <a href="https://thiagosilva-alpha.vercel.app/">
+      <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/thiago-da-silva-machado">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://instagram.com/sillva_ty">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+    <a href="https://tiktok.com/@thiagosilva.dev">
+      <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  Desenvolvedor Front-End • Criador de Conteúdo • Apaixonado por Inovação Digital
-</p>
+## 👨‍💻 Sobre Mim
 
----
+```javascript
+const thiago = {
+  formação: "Análise e Desenvolvimento de Sistemas (Estácio)",
+  cargo: "Desenvolvedor Full-Stack na Next Devs Academy",
+  especialidades: ["Front-End", "UI/UX", "React", "Next.js"],
+  paixões: ["Inovação Digital", "Compartilhar Conhecimento", "Resolver Problemas"],
+  objetivo: "Impactar pessoas através da tecnologia"
+};
+```
 
-## 🧠 Sobre mim
+Olá! Sou **Thiago Silva**, um desenvolvedor apaixonado por criar experiências digitais significativas. Em formação final na Estácio, trabalho com tecnologias modernas como **React**, **Next.js** e **Node.js** para construir interfaces intuitivas e funcionais.
 
-Sou o Thiago, um desenvolvedor que transforma **código em experiências interativas**.
+Como freelancer, desenvolvo landing pages, sistemas internos e dashboards responsivos, priorizando sempre a experiência do usuário, performance e código limpo. Também atuo como **Embaixador DIO Campus Expert**, compartilhando conhecimento e contribuindo para a comunidade de desenvolvedores.
 
-Atualmente no último período da faculdade de Análise e Desenvolvimento de Sistemas, coloco em prática o que aprendo criando soluções digitais que unem **design moderno, usabilidade e performance**.
+> "A tecnologia é uma ponte que conecta pessoas e soluções – e estou aqui para construir essas conexões."
 
-Como freelancer, desenvolvo landing pages, sistemas internos e dashboards responsivos utilizando ferramentas como **React**, **Tailwind CSS**, **Node.js** e **Shadcn/UI**.
+<details>
+<summary>🎯 Objetivos Profissionais</summary>
+<br>
+<ul>
+  <li>Entregar soluções que impactem positivamente a vida das pessoas</li>
+  <li>Desenvolver projetos que unam design moderno, usabilidade e performance</li>
+  <li>Contribuir para a comunidade de desenvolvedores através do compartilhamento de conhecimento</li>
+  <li>Explorar constantemente novas tecnologias para expandir meu conjunto de habilidades</li>
+</ul>
+</details>
 
-Também compartilho conteúdo nas redes sociais com o objetivo de **ensinar, inspirar e crescer junto com outros devs**. Acredito que tecnologia é ponte — e estou aqui para construir essas conexões.
+## 🛠️ Stack Tecnológica
 
-> Meu objetivo é simples: **impactar pessoas através da tecnologia**.
+<div align="center">
 
----
+### Front-End
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🛠️ Tecnologias & Ferramentas
+### Back-End & Ferramentas
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat&logo=vercel&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Bubble.io](https://img.shields.io/badge/-Bubble.io-1E1EEC?style=flat&logo=bubble&logoColor=white)
-![AppGyver](https://img.shields.io/badge/-AppGyver-2C2C2C?style=flat&logoColor=white)
+### Desenvolvimento & Outras
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Bubble.io](https://img.shields.io/badge/-Bubble.io-1E1EEC?style=for-the-badge&logo=bubble&logoColor=white)
+![AppGyver](https://img.shields.io/badge/-AppGyver-2C2C2C?style=for-the-badge&logo=sap&logoColor=white)
 
----
+</div>
 
-## 📈 GitHub Stats
+## 🚀 Experiência Profissional
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagosilva&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva&layout=compact&theme=radical" height="160"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>Next Devs Academy</strong><br>
+        Desenvolvedor Full-Stack<br>
+        <em>Fevereiro 2025 - Presente</em>
+      </td>
+      <td>
+        <strong>DIO</strong><br>
+        Embaixador Campus Expert<br>
+        <em>Abril 2025 - Presente</em>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Poupa Tempo RJ</strong><br>
+        Atendente DIC<br>
+        <em>Março 2023 - Novembro 2024</em>
+      </td>
+      <td>
+        <strong>Governo do Estado do RJ</strong><br>
+        Estagiário de TI<br>
+        <em>Julho 2022 - Janeiro 2023</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
----
+## 📊 GitHub Stats
 
-## 🌎 Vamos nos conectar
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagosilva20&show_icons=true&theme=tokyonight" height="180em" alt="Estatísticas GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva20&layout=compact&theme=tokyonight" height="180em" alt="Linguagens mais usadas"/>
+</div>
 
-<p align="center">
-  <a href="https://thiagosilva-alpha.vercel.app/" target="_blank" rel="noopener noreferrer" style="outline:none;">
-    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+## 🔍 Projetos em Destaque
+
+<div align="center">
+  <a href="https://thiagosilva-alpha.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagosilva20&repo=portfolio&theme=tokyonight" alt="Portfólio"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thiago-da-silva-machado" target="_blank" rel="noopener noreferrer" style="outline:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/sillva_ty" target="_blank" rel="noopener noreferrer" style="outline:none;">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://tiktok.com/@thiagosilva.dev" target="_blank" rel="noopener noreferrer" style="outline:none;">
-    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-</p>
+</div>
 
----
+## 📫 Contato
 
-<p align="center">
-  Aberto a novas conexões, colaborações e projetos incríveis.
-</p>
+<div align="center">
+  <a href="mailto:thiago201714@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5521993392724">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thiagosilva20&color=blue" alt="Contador de visualizações"/>
+  <p>Aberto a novas conexões, colaborações e projetos incríveis! 🚀</p>
+</div>
