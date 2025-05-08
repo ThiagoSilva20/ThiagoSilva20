@@ -95,7 +95,7 @@ Como freelancer, desenvolvo landing pages, sistemas internos e dashboards respon
         <br>
         <strong>Técnico em Informática</strong><br>
         Miecimo da Silva<br>
-        <em>Janeiro 2019 - Janeiro 2021</em>
+        <em>Janeiro 2019 - Dezembro 2021</em>
       </td>
     </tr>
   </table>
