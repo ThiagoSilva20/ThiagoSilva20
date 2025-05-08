@@ -14,7 +14,7 @@
     <a href="https://instagram.com/sillva_ty">
       <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="https://tiktok.com/@thiagosilvadev">
+    <a href="https://tiktok.com/@thiagosilva.dev">
       <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
     </a>
   </p>
@@ -24,8 +24,8 @@
 
 ```javascript
 const thiago = {
-  formação: "Análise e Desenvolvimento de Sistemas (Estácio)",
-  cargo: "Desenvolvedor Front End na Next Devs Academy",
+  formação: ["Análise e Desenvolvimento de Sistemas (Estácio)", "Técnico em Informática"],
+  cargo: "Desenvolvedor Full-Stack na Next Devs Academy",
   especialidades: ["Front-End", "UI/UX", "React", "Next.js"],
   paixões: ["Inovação Digital", "Compartilhar Conhecimento", "Resolver Problemas"],
   objetivo: "Impactar pessoas através da tecnologia"
@@ -78,7 +78,30 @@ Como freelancer, desenvolvo landing pages, sistemas internos e dashboards respon
 
 </div>
 
-## 🚀 Experiência Profissional
+## 🎓 Formação Acadêmica
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Ensino%20Superior-0077B5?style=for-the-badge" alt="Ensino Superior"/>
+        <br>
+        <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+        Estácio<br>
+        <em>Janeiro 2023 - Julho 2025</em>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Ensino%20Técnico-20232A?style=for-the-badge" alt="Ensino Técnico"/>
+        <br>
+        <strong>Técnico em Informática</strong><br>
+        Miecimo da Silva<br>
+        <em>Janeiro 2019 - Janeiro 2021</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🚀 Experiência Profissionalrofissional
 
 <div align="center">
   <table>
