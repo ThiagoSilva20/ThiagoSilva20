@@ -1,21 +1,22 @@
-<h1 align="center">Oi, eu sou o Thiago Silva</h1>
+<h1 align="center">Thiago Silva</h1>
 
 <p align="center">
-  Desenvolvedor Front-End | Criador de Conteúdo | Apaixonado por Inovação <br />
-  Transformando ideias em experiências digitais interativas <br />
-  Foco em React, Tailwind, Node.js e interfaces incríveis
+  Desenvolvedor Front-End • Criador de Conteúdo • Apaixonado por Inovação Digital
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou um criador de soluções digitais que acredita que **código também é arte**.  
+Sou o Thiago, um desenvolvedor que transforma **código em experiências interativas**.
 
-No último período da faculdade de Análise e Desenvolvimento de Sistemas, combino teoria com prática em cada projeto.  
-Como freelancer, dou vida a ideias criando **landing pages modernas**, **dashboards funcionais** e experiências memoráveis.  
-Também compartilho conhecimento nas redes, onde ensino, aprendo e me conecto com uma comunidade que vibra tecnologia.  
-Minha missão? **Criar interfaces que encantam e inspiram.**  
+Atualmente no último período da faculdade de Análise e Desenvolvimento de Sistemas, coloco em prática o que aprendo criando soluções digitais que unem **design moderno, usabilidade e performance**.
+
+Como freelancer, desenvolvo landing pages, sistemas internos e dashboards responsivos utilizando ferramentas como **React**, **Tailwind CSS**, **Node.js** e **Shadcn/UI**.
+
+Também compartilho conteúdo nas redes sociais com o objetivo de **ensinar, inspirar e crescer junto com outros devs**. Acredito que tecnologia é ponte — e estou aqui para construir essas conexões.
+
+> Meu objetivo é simples: **impactar pessoas através da tecnologia**.
 
 ---
 
@@ -25,9 +26,9 @@ Minha missão? **Criar interfaces que encantam e inspiram.**
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -63,5 +64,5 @@ Minha missão? **Criar interfaces que encantam e inspiram.**
 ---
 
 <p align="center">
-  Me chama pra trocar ideia ou desenvolver algo incrível juntos!
+  Aberto a novas conexões, colaborações e projetos incríveis.
 </p>
