@@ -23,12 +23,18 @@ Também compartilho conteúdo nas redes sociais com o objetivo de **ensinar, ins
 ## 🛠️ Tecnologias & Ferramentas
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat&logo=tailwindcss&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat&logo=vercel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat&logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Bubble.io](https://img.shields.io/badge/-Bubble.io-1E1EEC?style=flat&logo=bubble&logoColor=white)
+![AppGyver](https://img.shields.io/badge/-AppGyver-2C2C2C?style=flat&logoColor=white)
 
 ---
 
