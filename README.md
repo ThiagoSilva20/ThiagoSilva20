@@ -59,6 +59,9 @@ Como freelancer, desenvolvo landing pages, sistemas internos e dashboards respon
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Back-End & Ferramentas
@@ -70,10 +73,40 @@ Como freelancer, desenvolvo landing pages, sistemas internos e dashboards respon
 
 ### Desenvolvimento & Outras
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Bubble.io](https://img.shields.io/badge/-Bubble.io-1E1EEC?style=for-the-badge&logo=bubble&logoColor=white)
 ![AppGyver](https://img.shields.io/badge/-AppGyver-2C2C2C?style=for-the-badge&logo=sap&logoColor=white)
 
+</div>
+
+## 🚀 Experiência Profissional
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <strong>Next Devs Academy</strong><br>
+        Desenvolvedor Full-Stack<br>
+        <em>Fevereiro 2025 - Presente</em>
+      </td>
+      <td>
+        <strong>DIO</strong><br>
+        Embaixador Campus Expert<br>
+        <em>Abril 2025 - Presente</em>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Poupa Tempo RJ</strong><br>
+        Atendente DIC<br>
+        <em>Março 2023 - Novembro 2024</em>
+      </td>
+      <td>
+        <strong>Governo do Estado do RJ</strong><br>
+        Estagiário de TI<br>
+        <em>Julho 2022 - Janeiro 2023</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Stats
@@ -81,6 +114,14 @@ Como freelancer, desenvolvo landing pages, sistemas internos e dashboards respon
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiagosilva20&show_icons=true&theme=tokyonight" height="180em" alt="Estatísticas GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva20&layout=compact&theme=tokyonight" height="180em" alt="Linguagens mais usadas"/>
+</div>
+
+## 🔍 Projetos em Destaque
+
+<div align="center">
+  <a href="https://thiagosilva-alpha.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagosilva20&repo=portfolio&theme=tokyonight" alt="Portfólio"/>
+  </a>
 </div>
 
 ## 📫 Contato
