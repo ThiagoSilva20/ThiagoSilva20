@@ -1,9 +1,9 @@
-<h1 align="center">👋 Oi, eu sou o Thiago Silva</h1>
+<h1 align="center">Oi, eu sou o Thiago Silva</h1>
 
 <p align="center">
-  💻 Desenvolvedor Front-End | Criador de Conteúdo | Apaixonado por Inovação <br />
-  🚀 Transformando ideias em experiências digitais interativas <br />
-  🎯 Foco em React, Tailwind, Node.js e interfaces incríveis
+  Desenvolvedor Front-End | Criador de Conteúdo | Apaixonado por Inovação <br />
+  Transformando ideias em experiências digitais interativas <br />
+  Foco em React, Tailwind, Node.js e interfaces incríveis
 </p>
 
 ---
@@ -12,10 +12,10 @@
 
 Sou um criador de soluções digitais que acredita que **código também é arte**.  
 
-👨‍🎓 No último período da faculdade de Análise e Desenvolvimento de Sistemas, combino teoria com prática em cada projeto.  
-🌐 Como freelancer, dou vida a ideias criando **landing pages modernas**, **dashboards funcionais** e experiências memoráveis.  
-📱 Também compartilho conhecimento nas redes, onde ensino, aprendo e me conecto com uma comunidade que vibra tecnologia.  
-✨ Minha missão? **Criar interfaces que encantam e inspiram.**  
+No último período da faculdade de Análise e Desenvolvimento de Sistemas, combino teoria com prática em cada projeto.  
+Como freelancer, dou vida a ideias criando **landing pages modernas**, **dashboards funcionais** e experiências memoráveis.  
+Também compartilho conhecimento nas redes, onde ensino, aprendo e me conecto com uma comunidade que vibra tecnologia.  
+Minha missão? **Criar interfaces que encantam e inspiram.**  
 
 ---
 
@@ -43,15 +43,18 @@ Sou um criador de soluções digitais que acredita que **código também é arte
 ## 🌎 Vamos nos conectar
 
 <p align="center">
-  <a style="padding-right:5px" href="https://thiagosilva-alpha.vercel.app/" target="_blank">
+  <a href="https://thiagosilva-alpha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a style="padding-right:5px" href="https://www.linkedin.com/in/thiagosilva-dev" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/thiagosilva-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a style="padding-right:5px" href="https://instagram.com/thiagosilva.dev" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/thiagosilva.dev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://tiktok.com/@thiagosilva.dev" target="_blank">
     <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
@@ -60,5 +63,5 @@ Sou um criador de soluções digitais que acredita que **código também é arte
 ---
 
 <p align="center">
-  📩 Me chama pra trocar ideia ou desenvolver algo incrível juntos!
+  Me chama pra trocar ideia ou desenvolver algo incrível juntos!
 </p>
