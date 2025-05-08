@@ -25,7 +25,7 @@
 ```javascript
 const thiago = {
   formação: "Análise e Desenvolvimento de Sistemas (Estácio)",
-  cargo: "Desenvolvedor Full-Stack na Next Devs Academy",
+  cargo: "Desenvolvedor Front End na Next Devs Academy",
   especialidades: ["Front-End", "UI/UX", "React", "Next.js"],
   paixões: ["Inovação Digital", "Compartilhar Conhecimento", "Resolver Problemas"],
   objetivo: "Impactar pessoas através da tecnologia"
