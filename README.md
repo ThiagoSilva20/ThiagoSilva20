@@ -54,11 +54,11 @@ Também compartilho conteúdo nas redes sociais com o objetivo de **ensinar, ins
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/thiagosilva-dev" target="_blank" rel="noopener noreferrer" style="outline:none;">
+  <a href="https://www.linkedin.com/in/thiago-da-silva-machado" target="_blank" rel="noopener noreferrer" style="outline:none;">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/thiagosilva.dev" target="_blank" rel="noopener noreferrer" style="outline:none;">
+  <a href="https://instagram.com/sillva_ty" target="_blank" rel="noopener noreferrer" style="outline:none;">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
