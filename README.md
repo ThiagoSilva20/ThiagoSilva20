@@ -132,21 +132,6 @@ Como freelancer, desenvolvo landing pages, sistemas internos e dashboards respon
   </table>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagosilva20&show_icons=true&theme=tokyonight" height="180em" alt="Estatísticas GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosilva20&layout=compact&theme=tokyonight" height="180em" alt="Linguagens mais usadas"/>
-</div>
-
-## 🔍 Projetos em Destaque
-
-<div align="center">
-  <a href="https://thiagosilva-alpha.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thiagosilva20&repo=portfolio&theme=tokyonight" alt="Portfólio"/>
-  </a>
-</div>
-
 ## 📫 Contato
 
 <div align="center">
