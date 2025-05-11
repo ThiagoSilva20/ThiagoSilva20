@@ -101,37 +101,6 @@ Como freelancer, desenvolvo landing pages, sistemas internos e dashboards respon
   </table>
 </div>
 
-## 🚀 Experiência Profissionalrofissional
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong>Next Devs Academy</strong><br>
-        Desenvolvedor Full-Stack<br>
-        <em>Fevereiro 2025 - Presente</em>
-      </td>
-      <td>
-        <strong>DIO</strong><br>
-        Embaixador Campus Expert<br>
-        <em>Abril 2025 - Presente</em>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <strong>Poupa Tempo RJ</strong><br>
-        Atendente DIC<br>
-        <em>Março 2023 - Novembro 2024</em>
-      </td>
-      <td>
-        <strong>Governo do Estado do RJ</strong><br>
-        Estagiário de TI<br>
-        <em>Julho 2022 - Janeiro 2023</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 📫 Contato
 
 <div align="center">
